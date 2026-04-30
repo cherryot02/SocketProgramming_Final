@@ -138,7 +138,6 @@ corrected:
 I had many errors in indentation and misspellings. Every run program shows me where it was wrong. There were MANY of them and I kept going back and forth.
 
 **Other Limitations**
-
-### 1. After the choices (MENU), I don’t have an option to go back to login or log out. It closes the connection instead so I will have to run the client file again.
-### 2. It is not a full social media site where I can accept or decline invites.
-### 3. Input validation is non-existent; the most is that if it’s an incorrect number option or no matching credentials.
+1. After the choices (MENU), I don’t have an option to go back to login or log out. It closes the connection instead so I will have to run the client file again.
+2. It is not a full social media site where I can accept or decline invites.
+3. Input validation is non-existent; the most is that if it’s an incorrect number option or no matching credentials.
